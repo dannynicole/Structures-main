@@ -34,5 +34,5 @@ someplace.longitude = 0.125226
 /*:
  Create a variable instance of `Book` called `favoriteBook` without supplying any arguments. Print out the title of `favoriteBook`. Does it currently reflect the title of your favorite book? Probably not. Change all four properties of `favoriteBook` to reflect your favorite book. Then, using the properties of `favoriteBook`, print out facts about the book.
  */
-var favoriteBook = 
+var favoriteBook = " "
 //: page 1 of 10  |  [Next: App Exercise - Workout Tracking](@next)
